@@ -1,0 +1,14 @@
+.form-login {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.form-create-flat {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.form-create-flat input, button {
+    width: 300px;
+}
